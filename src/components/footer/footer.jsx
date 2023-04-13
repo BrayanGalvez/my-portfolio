@@ -20,9 +20,9 @@ function footer() {
 
 
       <div className="footer__socials">
-        <a href="https://www.instagram.com/brayangalvez.dev/"><FiInstagram/></a>
-        <a href="https://twitter.com/BrayanSGalvez"><IoLogoTwitter/></a>
-        <a href="https://www.linkedin.com/in/brayan-galvez/"><FaLinkedin/></a>
+        <a href="https://www.instagram.com/brayangalvez.dev/" target="_blank"><FiInstagram/></a>
+        <a href="https://twitter.com/BrayanSGalvez" target="_blank"><IoLogoTwitter/></a>
+        <a href="https://www.linkedin.com/in/brayan-galvez/" target="_blank"><FaLinkedin/></a>
       </div>
 
       <div className="footer__copyright">
