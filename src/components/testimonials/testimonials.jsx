@@ -36,7 +36,7 @@ const data = [
   },
   {
     avatar: AVTR4,
-    name: 'Name4',
+    name: 'N',
     review: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate, animi rerum. Expedita suscipit dolore ex eligendi fugit doloremque autem, numquam accusantium sunt rerum nesciunt velit aperiam modi illo aspernatur commodi?',
     
   }
