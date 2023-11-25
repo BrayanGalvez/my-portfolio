@@ -9,7 +9,7 @@ function HeaderSocials() {
     <div className='header__socials'>
         <a href="https://www.linkedin.com/in/brayan-galvez/" target="_blank"><BsLinkedin/></a>
         <a href="https://github.com/BrayanGalvez" target="_blank"><AiFillGithub/></a>
-        <a href="https://www.instagram.com/brayangalvez.dev/" target="_blank"><AiFillInstagram/></a>
+        <a href="https://www.instagram.com/stivengalvez/" target="_blank"><AiFillInstagram/></a>
     </div>
   )
 }
