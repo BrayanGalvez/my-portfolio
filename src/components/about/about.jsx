@@ -39,7 +39,7 @@ const About = () => {
             </article>
           </div>
           <p>
-          Brayan Galvez: skilled in programming, web development, and networking. A passionate technologist who constantly seeks new challenges to expand his knowledge and contribute to innovative projects. A valuable addition to any team.
+          Brayan Galvez: Data Scientist and Business Analyst, project leader and CEO of Nostalhit Music Group, LLC. He also serves as Business Analyst at Bring IT. Skilled professional in programming and web development, dedicated to innovation and contributing to projects in an integral way. His diverse experience and strategic vision make him a valuable addition to any team looking for leadership and excellence in technology and business.
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
