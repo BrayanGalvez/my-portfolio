@@ -18,14 +18,14 @@ import 'swiper/css/pagination';
 const data = [
   {
     avatar: AVTR1,
-    name: 'Nostalhit Music Group',
-    review: 'Working with Brayan Galvez was a great experience for our team at Nostalhit Music Group. His UX-UI expertise and ability to understand our vision, helped us design a one-of-a-kind streaming platform that we are excited to launch in the coming months. Brayans dedication and commitment to the project, combined with his communication skills, made the process seamless and enjoyable. We highly recommend his services to anyone looking to bring their ideas to life.',
+    name: 'Nostalhit Music Group, LLC',
+    review: 'In the early and exhilarating chapters of Nostalhit Music Group, LLC, Brayan Galvez stands out as a visionary leader. As the Chief Executive Officer, he has infused innovative energy into our burgeoning company. His skills as a Data Scientist and Business Analyst, coupled with his expertise in programming and web development, have been pivotal in transforming how we approach music creation and distribution. Brayan&apos;s strategic vision and commitment to excellence guide Nostalhit in this initial phase, marking the beginning of an exciting journey of growth and success in the digital music industry.',
     
   },
   {
     avatar: AVTR2,
-    name: 'Name2',
-    review: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate, animi rerum. Expedita suscipit dolore ex eligendi fugit doloremque autem, numquam accusantium sunt rerum nesciunt velit aperiam modi illo aspernatur commodi?',
+    name: 'Green Forest Co. S.A.S',
+    review: 'Within Green Forest Co. S.A.S, Brayan Galvez stands out as a committed Systems Analyst and Developer dedicated to innovation and technological progress. In his pivotal role, Brayan has showcased his ability to provide the company with meticulously developed digital tools and databases. His technical expertise has been instrumental in advancing Green Forest Co. S.A.S&apos;s development strategy. While Brayan not only brings his technical skills but also a collaborative spirit, being a valuable member of the development team. With his clear vision and significant contributions, Brayan Galvez plays an essential role in steering Green Forest Co. S.A.S towards a technological and successful future.',
     
   },
   {
